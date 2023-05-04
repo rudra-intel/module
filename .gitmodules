@@ -1,0 +1,6 @@
+[submodule "msa_qa_test_1"]
+	path = msa_qa_test_1
+	url = https://github.com/rudra-intel/msa_qa_test_1.git
+[submodule "submodule_pypi"]
+	path = submodule_pypi
+	url = https://github.com/rudra-intel/submodule_pypi.git
